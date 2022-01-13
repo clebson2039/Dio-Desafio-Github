@@ -1,0 +1,10 @@
+Clonando repositório
+
+1 - Cria uma pasta no computador
+2 - Abre o bash
+3 - Git clone e cola endereço do repositório
+4 - Git status para ver o status
+5 - Cd + nome do repositório para fazer edição
+6 - Git add . pra adicionar no controle de versão local
+7 - Git commit -m Para adicionar no github, no navegador
+8 - Git push origin main
