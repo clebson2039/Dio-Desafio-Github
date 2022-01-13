@@ -1,10 +1,10 @@
 Clonando repositório
 
-1 - Criar uma pasta no computador
-2 - Abrir o bash na pasta criada
-3 - Git clone e cola endereço do repositório
-4 - Git status para ver o status
-5 - Cd + nome do repositório para fazer edição
-6 - Git add . para adicionar no controle de versão local
-7 - Git commit -m Para adicionar no github, no navegador
-8 - Git push origin main para subir na nuvem
+Criar uma pasta no computador
+Abrir o bash na pasta criada
+Git clone e cola endereço do repositório
+Git status para ver o status
+Cd + nome do repositório para fazer edição
+Git add . para adicionar no controle de versão local
+Git commit -m Para adicionar no github, no navegador
+Git push origin main para subir na nuvem
