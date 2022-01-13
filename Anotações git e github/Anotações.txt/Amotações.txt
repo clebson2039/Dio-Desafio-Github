@@ -7,4 +7,4 @@ Clonando repositório
 5 - Cd + nome do repositório para fazer edição
 6 - Git add . para adicionar no controle de versão local
 7 - Git commit -m Para adicionar no github, no navegador
-8 - Git push origin main para subir para nuvem
+8 - Git push origin main para subir na nuvem
